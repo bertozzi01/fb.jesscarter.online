@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <title>How to Awaken Her Deepest Intimacy | Masterclass by Jessica Carter</title>
+  <meta name="description" content="Discover proven techniques for couples to enhance emotional intimacy, physical connection, communication, and relationship confidence with Jessica Carter.">
+  <meta name="keywords" content="relationship advice, intimacy for couples, couples connection, emotional intimacy, relationship coaching, marriage wellness, bedroom confidence">
+  <meta name="author" content="Jessica Carter">
+  <meta name="robots" content="index, follow">
+
+  <!-- Open Graph / Facebook Crawler Meta Tags -->
+  <meta property="og:type" content="video.other">
+  <meta property="og:title" content="How to Awaken Her Deepest Intimacy (Masterclass) - Jessica Carter">
+  <meta property="og:description" content="A complete guide for partners to build trust, emotional depth, communication, and lasting romantic connection.">
+  <meta property="og:image" content="https://seudominio.com/roxy.jpg">
+  <meta property="og:site_name" content="Relationship & Intimacy Masterclass">
+  <meta property="article:section" content="Relationships & Wellness">
+  <meta property="article:tag" content="Couples Relationship">
+  <meta property="article:tag" content="Emotional Intimacy">
+  <meta property="article:tag" content="Relationship Advice for Men">
+
+  <!-- Schema.org JSON-LD (Permite aos robôs entenderem nicho, instrutora e audiência) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "How to Awaken Her Deepest Intimacy Masterclass",
+    "description": "Educational masterclass focused on couple connection, relationship communication, and emotional and physical intimacy.",
+    "provider": {
+      "@type": "Person",
+      "name": "Jessica Carter",
+      "jobTitle": "Relationship & Intimacy Coach"
+    },
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Men in relationships, married couples, adults seeking relationship enhancement"
+    },
+    "about": [
+      "Relationship Coaching",
+      "Couples Communication",
+      "Intimacy and Connection"
+    ]
+  }
+  </script>
+
+  <link rel="preconnect" href="https://scripts.converteai.net">
+  <link rel="preconnect" href="https://cdn.converteai.net">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" media="print" onload="this.media='all'">
+
+  <style>
+    body { background-color: #1a1a1a; color: #ffffff; font-family: ui-sans-serif, system-ui, -apple-system, sans-serif; margin: 0; }
+    header { background-color: #000; padding: 12px 16px; position: sticky; top: 0; z-index: 50; border-bottom: 1px solid #222; }
+    
+    .container { max-width: 1024px; margin: 0 auto; padding: 0 16px; }
+    
+    .video-container { max-width: 896px; margin: 10px auto; }
+    
+    @media (max-width: 640px) {
+      .container { padding: 0 12px; }
+      .video-container { margin: 0 -12px; }
+      vturb-smartplayer { border-radius: 0; }
+    }
+
+    .bg-card { background-color: #2d2d2d; border-radius: 8px; padding: 16px; margin-bottom: 16px; margin-top: 16px; }
+    .text-primary { color: #ff9000; }
+    .bg-primary { background-color: #ff9000; color: white; border: none; padding: 10px 20px; border-radius: 4px; cursor: pointer; font-weight: bold; }
+    .flex { display: flex; }
+    .items-center { align-items: center; }
+    .justify-between { justify-content: space-between; }
+    .gap-3 { gap: 12px; }
+    .mt-6 { margin-top: 24px; }
+    .text-center { text-align: center; }
+    .rounded-full { border-radius: 9999px; }
+    .esconder { display: none; }
+    .text-gray { color: #9ca3af; font-size: 0.875rem; }
+    
+    .badge {
+      display: inline-block;
+      background-color: rgba(255, 144, 0, 0.15);
+      color: #ff9000;
+      border: 1px solid rgba(255, 144, 0, 0.4);
+      padding: 4px 10px;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      margin-right: 6px;
+      margin-bottom: 8px;
+    }
+
+    .pulse-btn {
+      background-color: #dc2626;
+      color: white;
+      font-weight: bold;
+      padding: 16px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      display: block;
+      max-width: 400px;
+      margin: 0 auto;
+      transition: 0.3s;
+      animation: pulse 1.4s ease-in-out infinite;
+      box-shadow: 0 0 20px rgba(220, 38, 38, 0.4);
+    }
+    @keyframes pulse {
+      0% { transform: scale(1); box-shadow: 0 0 0 0 rgba(220, 38, 38, 0.6); }
+      70% { transform: scale(1.05); box-shadow: 0 0 0 15px rgba(220, 38, 38, 0); }
+      100% { transform: scale(1); box-shadow: 0 0 0 0 rgba(220, 38, 38, 0); }
+    }
+
+    vturb-smartplayer { aspect-ratio: 16/9; background: #000; display: block; width: 100%; overflow: hidden; }
+    
+    .comment-row { display: flex; gap: 12px; margin-bottom: 20px; border-bottom: 1px solid #3d3d3d; padding-bottom: 12px; }
+    .comment-row:last-child { border: none; }
+    
+    .footer-links a { color: #888; text-decoration: none; margin: 0 8px; font-size: 0.75rem; }
+    .footer-links a:hover { color: #bbb; }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <div class="container flex items-center justify-between">
+      <div class="text-primary font-bold" style="font-size: 1.3rem;">
+        <i class="fas fa-play-circle"></i> IntimacyMastery Hub
+      </div>
+      <div style="background: #333; padding: 6px 12px; border-radius: 8px; font-size: 12px; opacity: 0.7;">
+        <i class="fas fa-user"></i> Member Portal
+      </div>
+    </div>
+  </header>
+
+  <main class="container">
+    <div class="video-container">
+      <vturb-smartplayer id="vid-6924cb72929a71f0a173dacd" style="display: block; margin: 0 auto; width: 100%;"></vturb-smartplayer> 
+      <script type="text/javascript"> var s=document.createElement("script"); s.src="https://scripts.converteai.net/63a99c38-2db9-4f4c-b696-b0c6298f2536/players/6924cb72929a71f0a173dacd/v4/player.js", s.async=!0,document.head.appendChild(s); </script>
+    </div>
+
+    <div class="mt-6 esconder text-center">
+      <a href="https://pay.hotmart.com/B104229276D?checkoutMode=10&bid=1770143204738" class="pulse-btn">
+        CLICK HERE TO UNLOCK THE INTIMACY SECRETS
+      </a>
+    </div>
+
+    <!-- Título, Tags Semânticas e Criadora -->
+    <div class="bg-card">
+      <div style="margin-bottom: 8px;">
+        <span class="badge"><i class="fas fa-heart"></i> Couples Relationship</span>
+        <span class="badge"><i class="fas fa-lightbulb"></i> Relationship Coaching</span>
+        <span class="badge"><i class="fas fa-user-friends"></i> For Married & Dating Men</span>
+      </div>
+
+      <h1 style="font-size: 1.3rem; margin-bottom: 12px; font-weight: 800; line-height: 1.2;">HOW TO AWAKEN HER DEEPEST INTIMACY (MASTERCLASS)</h1>
+      <div class="flex gap-3 text-gray" style="margin-bottom: 16px;">
+        <span><i class="fas fa-eye"></i> 523,569 views</span>
+        <span><i class="fas fa-calendar"></i> 2 days ago</span>
+        <span><i class="fas fa-clock"></i> 38 min workshop</span>
+      </div>
+      
+      <div class="flex items-center">
+        <img src="roxy.jpg" alt="Jessica Carter - Intimacy & Relationship Coach" class="rounded-full" style="width: 44px; height: 44px; margin-right: 12px; border: 2px solid #ff9000;">
+        <div style="flex-grow: 1;">
+          <h3 style="margin: 0; font-size: 1rem;">Jessica Carter</h3>
+          <p class="text-gray" style="margin: 0;">Certified Relationship & Couples Intimacy Specialist • 1.5M followers</p>
+        </div>
+        <button class="bg-primary">Follow</button>
+      </div>
+    </div>
+
+    <!-- Descrição Estruturada com Palavras-Chave do Nicho -->
+    <div class="bg-card">
+      <h3 style="margin-top: 0; font-size: 1rem;"><i class="fas fa-align-left text-primary"></i> Masterclass Overview & Key Takeaways</h3>
+      <p style="color: #d1d5db; font-size: 0.85rem; line-height: 1.6; margin-bottom: 12px;">
+        In this video presentation, Jessica Carter breaks down the psychological, emotional, and physical dynamics that govern feminine desire and connection. Designed for men looking to bring romance, excitement, and mutual satisfaction back to their long-term relationships.
+      </p>
+      
+      <h4 style="font-size: 0.9rem; color: #ff9000; margin: 12px 0 6px 0;">What you will discover in this presentation:</h4>
+      <ul style="color: #d1d5db; font-size: 0.85rem; line-height: 1.6; padding-left: 20px; margin: 0;">
+        <li><strong>Feminine Biology & Desire Triggers:</strong> How emotional safety unlocks deeper physical vulnerability and responsiveness.</li>
+        <li><strong>Rhythmic & Sensory Connection:</strong> Exact touch patterns and subtle pacing adjustments that rebuild bedroom confidence.</li>
+        <li><strong>Breaking the Routine:</strong> Practical steps for married couples to overcome romantic dryness and rekindle spark.</li>
+        <li><strong>Honest Partner Communication:</strong> How to communicate desires comfortably without awkwardness or pressure.</li>
+      </ul>
+    </div>
+
+    <!-- Comentários (Contextualizados para reforçar a autoridade do nicho) -->
+    <div class="bg-card">
+      <h3 style="margin-top: 0; margin-bottom: 20px; font-size: 1rem;">Discussion & Feedback (247)</h3>
+      
+      <div class="comment-row">
+        <img src="https://i.pravatar.cc/100?img=12" alt="coryp212" class="rounded-full" style="width: 36px; height: 36px;" loading="lazy">
+        <div>
+          <p style="margin: 0; font-weight: bold; font-size: 0.85rem;">coryp212 <span class="text-gray" style="font-weight: normal; margin-left: 8px;">2h ago</span></p>
+          <p style="margin: 4px 0; color: #d1d5db; font-size: 0.85rem;">Thanks to your guidance, our relationship communication and physical intimacy are stronger than when we were newlyweds. My confidence is through the roof.</p>
+        </div>
+      </div>
+
+      <div class="comment-row">
+        <img src="https://i.pravatar.cc/100?img=22" alt="remywalk330" class="rounded-full" style="width: 36px; height: 36px;" loading="lazy">
+        <div>
+          <p style="margin: 0; font-weight: bold; font-size: 0.85rem;">remywalk330 <span class="text-gray" style="font-weight: normal; margin-left: 8px;">5h ago</span></p>
+          <p style="margin: 4px 0; color: #d1d5db; font-size: 0.85rem;">The biological breakdown of women's arousal response makes total sense. Every husband needs to hear this.</p>
+        </div>
+      </div>
+
+      <div class="comment-row">
+        <img src="https://i.pravatar.cc/100?img=11" alt="davidsmith_89" class="rounded-full" style="width: 36px; height: 36px;" loading="lazy">
+        <div>
+          <p style="margin: 0; font-weight: bold; font-size: 0.85rem;">davidsmith_89 <span class="text-gray" style="font-weight: normal; margin-left: 8px;">8h ago</span></p>
+          <p style="margin: 4px 0; color: #d1d5db; font-size: 0.85rem;">Married for 10 years and stuck in a rut. Applying these connection rituals completely revitalized our relationship.</p>
+        </div>
+      </div>
+
+      <div class="comment-row">
+        <img src="https://i.pravatar.cc/100?img=33" alt="mike_t_chicago" class="rounded-full" style="width: 36px; height: 36px;" loading="lazy">
+        <div>
+          <p style="margin: 0; font-weight: bold; font-size: 0.85rem;">mike_t_chicago <span class="text-gray" style="font-weight: normal; margin-left: 8px;">11h ago</span></p>
+          <p style="margin: 4px 0; color: #d1d5db; font-size: 0.85rem;">I thought I knew what my wife wanted, but I had missed the emotional connection aspect. Absolute eye-opener.</p>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer style="text-align: center; padding: 30px; color: #666; font-size: 0.75rem; border-top: 1px solid #222; margin-top: 20px;">
+    <p>&copy; 2026 IntimacyMastery Hub. All rights reserved.</p>
+    <div class="footer-links" style="margin-top: 8px;">
+      <a href="#">Terms of Service</a> |
+      <a href="#">Privacy Policy</a> |
+      <a href="#">Educational Disclaimer</a> |
+      <a href="#">Support</a>
+    </div>
+    <p style="font-size: 0.7rem; color: #555; margin-top: 10px; max-width: 600px; margin-left: auto; margin-right: auto;">
+      Disclaimer: This masterclass is for educational purposes regarding relationship wellness, interpersonal communication, and couple connection. Results may vary by individual and relationship dynamics.
+    </p>
+  </footer>
+
+  <script>
+    var delaySeconds = 535; 
+    document.addEventListener("player:ready", function() {
+      var player = document.querySelector("vturb-smartplayer");
+      player.displayHiddenElements(delaySeconds, [".esconder"], { persist: true });
+    });
+  </script>
+
+  <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v8c78df7c7c0f484497ecbca7046644da1771523124516" crossorigin="anonymous"></script>
+</body>
+</html>
